@@ -13,9 +13,11 @@ https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/index.m3u8 
 #EXTINF:-1 tvg-id="channel7" tvg-name="Reporter Audio" group-title="NEWS",Reporter 
 https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8 
-#EXTINF:-1 tvg-id="channel8" tvg-name="Safari Audio" group-title="TRAVEL",Safari 
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="channel8" tvg-name="Google Video News" group-title="NEWS",Google Video News 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710725232/ei/EET3ZZm5Bevn4-EPpoStsAc/ip/172.70.142.201/id/b00Xxk_0JQ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyqUM1-a09cXuAIFFyyChHJGpp6oZut3CH4QYt7of5g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALwqyhuxJTCsugzgkID_bBkbAGiBCyuuR8nbJppof0a7AiAzRzjBKLPdMj85g6BHomhAJJClmqqS7UJOVDN4O1_VWQ%3D%3D/file/index.m3u8 
 #EXTINF:-1 tvg-id="channel9" tvg-name="Real News Audio" group-title="NEWS",Real News
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="channel10" tvg-name="Al Jazeera Arabic Audio" group-title="NEWS",Al Jazeera Arabic 
+#EXTINF:-1 tvg-id="channel10" tvg-name="Safari Audio" group-title="TRAVEL",Safari 
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8 
+#EXTINF:-1 tvg-id="channel11" tvg-name="Al Jazeera Arabic Audio" group-title="NEWS",Al Jazeera Arabic 
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
