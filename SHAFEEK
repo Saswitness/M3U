@@ -1,6 +1,3 @@
-Here is your updated M3U playlist, indicating that the channels are in Malayalam:
-
-```m3u
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="MEDIA ONE" group-title="NEWS" language="Malayalam",MEDIA ONE
