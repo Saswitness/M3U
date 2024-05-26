@@ -1,27 +1,24 @@
-Here is your updated M3U playlist with Channel 9 added back:
-
-```m3u
 #EXTM3U 
-#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" group-title="NEWS",MEDIA ONE 
+#EXTINF:-1 tvg-id="channel1" tvg-name="CHANNEL 1" group-title="NEWS",MEDIA ONE 
 http://103.199.161.254:80/Content/mediaone/Live/Channel%28MediaOne%29/Stream(02)/index.m3u8 
-#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2" group-title="NEWS",24 NEWS 
+#EXTINF:-1 tvg-id="channel2" tvg-name="CHANNEL 2" group-title="NEWS",24 NEWS 
 https://segment.yuppcdn.net/110322/channel24/110322/channel24_1800/chunks.m3u8 
-#EXTINF:-1 tvg-id="channel3" tvg-name="Asianet News" group-title="NEWS",Asianet News 
+#EXTINF:-1 tvg-id="channel3" tvg-name="ASIANET NEWS" group-title="NEWS",ASIANET NEWS 
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8 
-#EXTINF:-1 tvg-id="channel4" tvg-name="Manorama News" group-title="NEWS",Manorama News 
+#EXTINF:-1 tvg-id="channel4" tvg-name="MANORAMA NEWS" group-title="NEWS",MANORAMA NEWS 
 http://103.199.161.254:80/Content/manoramanews/Live/Channel%28ManoramaNews%29/Stream(01)/index.m3u8 
-#EXTINF:-1 tvg-id="channel5" tvg-name="Janam TV" group-title="NEWS",Janam TV 
+#EXTINF:-1 tvg-id="channel5" tvg-name="JANAM TV" group-title="NEWS",JANAM TV 
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8 
-#EXTINF:-1 tvg-id="channel6" tvg-name="Mathrubhumi News" group-title="NEWS",Mathrubhumi News 
+#EXTINF:-1 tvg-id="channel6" tvg-name="MATHRUBHUMI NEWS" group-title="NEWS",MATHRUBHUMI NEWS 
 http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/index.m3u8 
-#EXTINF:-1 tvg-id="channel7" tvg-name="Kairali" group-title="NEWS",Kairali 
+#EXTINF:-1 tvg-id="channel7" tvg-name="KAIRALI" group-title="NEWS",KAIRALI 
 https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8 
-#EXTINF:-1 tvg-id="channel8" tvg-name="Reporter" group-title="NEWS",Reporter 
+#EXTINF:-1 tvg-id="channel8" tvg-name="REPORTER" group-title="NEWS",REPORTER 
 https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8 
-#EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" group-title="NEWS",Channel 9 
+#EXTINF:-1 tvg-id="channel9" tvg-name="KERALA VISION" group-title="NEWS",KERALA VISION 
 https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
-#EXTINF:-1 tvg-id="channel10" tvg-name="Safari" group-title="TRAVEL",Safari 
+#EXTINF:-1 tvg-id="channel10" tvg-name="SAFARI" group-title="TRAVEL",SAFARI 
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8 
-#EXTINF:-1 tvg-id="channel11" tvg-name="Al Jazeera Arabic" group-title="NEWS",Al Jazeera Arabic 
+#EXTINF:-1 tvg-id="channel11" tvg-name="AL JAZEERA ARABIC" group-title="NEWS",AL JAZEERA ARABIC 
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 ```
