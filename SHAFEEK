@@ -1,0 +1,31 @@
+Here is your updated M3U playlist, indicating that the channels are in Malayalam:
+
+```m3u
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="MEDIA ONE" group-title="NEWS" language="Malayalam",MEDIA ONE
+http://103.199.161.254:80/Content/mediaone/Live/Channel%28MediaOne%29/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24 NEWS" group-title="NEWS" language="Malayalam",24 NEWS
+https://segment.yuppcdn.net/110322/channel24/110322/channel24_1800/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="REPORTER TV" group-title="NEWS" language="Malayalam",REPORTER TV
+https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASIANET NEWS" group-title="NEWS" language="Malayalam",ASIANET NEWS
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="JANAM TV" group-title="NEWS" language="Malayalam",JANAM TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MANORAMA NEWS" group-title="NEWS" language="Malayalam",MANORAMA NEWS
+http://103.199.161.254:80/Content/manoramanews/Live/Channel%28ManoramaNews%29/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MATHRUBHUMI NEWS" group-title="NEWS" language="Malayalam",MATHRUBHUMI NEWS
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="KERALA VISION" group-title="NEWS" language="Malayalam",KERALA VISION
+https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
+```
+
+Save this text as a `.m3u` file to create your playlist.
