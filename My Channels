@@ -1,3 +1,6 @@
+Here is your updated M3U playlist with Channel 9 added back:
+
+```m3u
 #EXTM3U 
 #EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" group-title="NEWS",MEDIA ONE 
 http://103.199.161.254:80/Content/mediaone/Live/Channel%28MediaOne%29/Stream(02)/index.m3u8 
@@ -9,11 +12,16 @@ https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunk
 http://103.199.161.254:80/Content/manoramanews/Live/Channel%28ManoramaNews%29/Stream(01)/index.m3u8 
 #EXTINF:-1 tvg-id="channel5" tvg-name="Janam TV" group-title="NEWS",Janam TV 
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8 
-#EXTINF:-1 tvg-id="channel6" tvg-name="Mathrubhumi News" group-title="NEWS",Mathrubhumi News http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/index.m3u8 
-#EXTINF:-1 tvg-id="channel7" tvg-name="Kairali" group-title="NEWS",Kairali https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8 
+#EXTINF:-1 tvg-id="channel6" tvg-name="Mathrubhumi News" group-title="NEWS",Mathrubhumi News 
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/index.m3u8 
+#EXTINF:-1 tvg-id="channel7" tvg-name="Kairali" group-title="NEWS",Kairali 
+https://ythls.armelin.one/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8 
 #EXTINF:-1 tvg-id="channel8" tvg-name="Reporter" group-title="NEWS",Reporter 
 https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8 
+#EXTINF:-1 tvg-id="channel9" tvg-name="Channel 9" group-title="NEWS",Channel 9 
+https://ythls.armelin.one/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
 #EXTINF:-1 tvg-id="channel10" tvg-name="Safari" group-title="TRAVEL",Safari 
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="channel11" tvg-name="Al Jazeera Arabic" group-title="NEWS",Al Jazeera Arabic 
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8 
+https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+```
