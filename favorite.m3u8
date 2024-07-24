@@ -1,23 +1,13 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1 Audio" group-title="NEWS",MEDIA ONE 
-http://103.199.161.254:80/Content/mediaone/Live/Channel%28MediaOne%29/Stream(02)/index.m3u8 
-#EXTINF:-1 tvg-id="channel2" tvg-name="Channel 2 Audio" group-title="NEWS",24 NEWS 
-https://segment.yuppcdn.net/110322/channel24/110322/channel24_1800/chunks.m3u8 
-#EXTINF:-1 tvg-id="channel3" tvg-name="Asianet News Audio" group-title="NEWS",Asianet News 
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8 
-#EXTINF:-1 tvg-id="channel4" tvg-name="Manorama News Audio" group-title="NEWS",Manorama News 
-http://103.199.161.254:80/Content/manoramanews/Live/Channel%28ManoramaNews%29/Stream(01)/index.m3u8 
-#EXTINF:-1 tvg-id="channel5" tvg-name="Janam TV Audio" group-title="NEWS",Janam TV 
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8 
-#EXTINF:-1 tvg-id="channel6" tvg-name="Mathrubhumi News Audio" group-title="NEWS",Mathrubhumi News 
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel%28Mathrubhuminews%29/index.m3u8 
-#EXTINF:-1 tvg-id="channel7" tvg-name="Reporter Audio" group-title="NEWS",Reporter 
-https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8 
-#EXTINF:-1 tvg-id="channel8" tvg-name="Google Video News" group-title="NEWS",Google Video News 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710725232/ei/EET3ZZm5Bevn4-EPpoStsAc/ip/172.70.142.201/id/b00Xxk_0JQ0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyqUM1-a09cXuAIFFyyChHJGpp6oZut3CH4QYt7of5g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALwqyhuxJTCsugzgkID_bBkbAGiBCyuuR8nbJppof0a7AiAzRzjBKLPdMj85g6BHomhAJJClmqqS7UJOVDN4O1_VWQ%3D%3D/file/index.m3u8 
-#EXTINF:-1 tvg-id="channel9" tvg-name="Real News Audio" group-title="NEWS",Real News
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="channel10" tvg-name="Safari Audio" group-title="TRAVEL",Safari 
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8 
-#EXTINF:-1 tvg-id="channel11" tvg-name="Al Jazeera Arabic Audio" group-title="NEWS",Al Jazeera Arabic 
-https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Media One" tvg-language="Malayalam" tvg-logo="" group-title="News",Media One
+https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 News" tvg-language="Malayalam" tvg-logo="" group-title="News",24 News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721848444/ei/HP6gZu_GAf6V1d8P95CZyAY/ip/172.69.94.173/id/1wECsnGZcfc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Ditag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-nu5h2xqx-jv3e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bATPjjUZOXnmOVXVibtUeR2be0GqmTlM80v3HHgCMh1ZUzfupIXoCGGbed_c/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/471250/mh/2r/mip/103.104.46.68/mm/44/mn/sn-nu5h2xqx-jv3e/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/mt/1721826288/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgXb6wkEGbRVM-Zk3nJAqSWlQg05JbNWW6-yfZ9s9d99cCIC16_JDjCEYqCq835p3sWqzWpTkmjqvpiOCnkue-EkBh/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRQIhAN9Q8UA519m4wnQzBztlHBkYcoNRx-Cgk7HtZnsBT8YFAiBIgU439wl19txHML1YZ1Ps5SzidWhNwCxxO-r-BiM6Vg%3D%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reporter TV" tvg-language="Malayalam" tvg-logo="" group-title="News",Reporter TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1721849032/ei/aAChZqWGI-uEg8UPnYCyqAM/ip/172.69.178.31/id/HGOiuQUwqEw.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Ditag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-nu5h2xqx-jv3e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/NO7bAbTSSm-aeYpWaA-0M1m1EPi2jntgNrHCTEq2RM3mBa1ZrXGXvFaVdQ_bDcM/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/488750/mh/CY/mip/103.104.46.68/mm/44/mn/sn-nu5h2xqx-jv3e/ms/lva/mv/m/mvi/1/pl/24/dover/11/pacing/0/keepalive/yes/mt/1721827007/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgXoUBlFJzExR_kmFWLCAYV3JHJJir4bEntTSd9Qkz3S4CIQDmyayIshpIWTkVvgPZ_zovlpd1vVxRVNmslSgSNU7tVA%3D%3D/lsparams/hls_chunk_host,hcs,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AGtxev0wRgIhAIR5ATnTkd57ZkgcvM7x4o8KTMpsAlS1toSgBDGr8LPvAiEAsDTU5QLxOQ0uo9e5iTOiaTECDjKApGqVq9kopS3X388%3D/playlist/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asianet News" tvg-language="Malayalam" tvg-logo="" group-title="News",Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manorama News" tvg-language="Malayalam" tvg-logo="" group-title="News",Manorama News
+https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kairali News" tvg-language="Malayalam" tvg-logo="" group-title="News",Kairali News
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
