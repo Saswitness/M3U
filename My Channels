@@ -2,6 +2,3 @@
 
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-name="MediaOne" tvg-logo="https://commons.m.wikimedia.org/wiki/File:Media_One_Logo.png" group-title="News" language="Malayalam" country="India",Media One
 https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
-
-#EXTINF:-1 tvg-name="24 News" group-title="News" language="Malayalam",24 News
-https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
