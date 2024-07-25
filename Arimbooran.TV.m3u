@@ -1,3 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MediaOne.in" group-title="News" language="Malayalam",Channel 1 Media One
+
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="News", Media One
 https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+
+#EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News", 24 News
+https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="News", Reporter
+https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
+
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News", Manorama News
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News", Asianet News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="News", News 18
+https://ythls.armelin.one/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News", Mathrubhumi News
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="News", Janam TV
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News", Kairali News
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
+
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News", News Malayalam
+https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
