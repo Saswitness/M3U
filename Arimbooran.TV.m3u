@@ -33,6 +33,9 @@ https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryMLGroupTravel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png" group-title="Travel", Discovery ML Group Travel
+https://discoverymlgrouptravel.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="News", CNN News
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 
