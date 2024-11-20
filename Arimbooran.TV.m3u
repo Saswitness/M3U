@@ -1,40 +1,49 @@
-#EXTM3U
+#EXTM3U  
 
 #EXTINF:-1 tvg-id="MediaOne.in" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="News", Media One  
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732103129/ei/eXc9Z9_5OLmc4t4P5f-gqAg/ip/162.158.107.15/id/-8d8-c0yvyU.1/itag/96/source/yt_live_broadcast/.../playlist/index.m3u8  
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732103129/ei/eXc9Z9_5OLmc4t4P5f-gqAg/ip/162.158.107.15/id/-8d8-c0yvyU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-gwpa-jjwe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAZm1A6vCcWPMW8RDnHsLgxBScCgrlH9Lf5TS2oEHdabUmZAvoWF1Tp7CoYs/vprv/1/playlist_type/DVR/hcs/sd/initcwndbps/827500/met/1732081531,/mh/Rs/mip/152.58.219.30/mm/44/mn/sn-gwpa-jjwe/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rmhost/rr2---sn-gwpa-jjwe.googlevideo.com/rms/lva,lva/smhost/rr3---sn-gwpa-itqe6.googlevideo.com/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932,51335593,51347746/mt/1732080996/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRgIhAKjphV1NE2gH1u0GQ7H3Bd178PgHeN-eQdKM5OqQ0qFZAiEArHf8INXyxVu3YeL766tCLVIRraJHWQL8QmJlY8u4WHc%3D/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl,rmhost,rms,smhost/lsig/AGluJ3MwRQIgMC7bsrrpvgEyKrAZbKeyghUX4wyu-IQ0emx29-Qcwx4CIQDrgISaHW2YNAGxTu9WzKkikDSTiWnY325jAz-qRAw6TA%3D%3D/playlist/index.m3u8  
 
-#EXTINF:-1 tvg-id="NewsMalayalam.in" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News", News Malayalam  
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/rXU9Z8CQOZaQ3LUP2rn-mAg/.../playlist/index.m3u8  
+#EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News", 24 News  
+https://ythls.armelin.one/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8  
 
-#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News", Mathrubhumi News  
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102646/ei/lnU9Z-30H_zk4t4PrIiViQg/.../file/index.m3u8  
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="News", Reporter  
+https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8  
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News", Manorama News  
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102638/ei/jnU9Z5OqCre74-EP6obfkQw/.../file/index.m3u8  
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102638/ei/jnU9Z5OqCre74-EP6obfkQw/ip/162.158.163.15/id/tgBTspqA5nY.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51337702/txs/51337701%2C51337702%2C51337703%2C51337704/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAUpnLqOgRG6njCccaKdjHnS94Zvnu54hWm0dNBmfu-EUeRn7v3F96oIlVVE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51335593/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswQwIfFyhlr6jF7S31YmefiyAVKr1AVdWB5YZGiZytgDRTjgIgDlO75qEArg-pSgMxiiuIqC9-49Io_eV4V_4JJ376cZM%3D/file/index.m3u8  
+
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News", Asianet News  
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="News", News 18  
+https://ythls.armelin.one/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8  
+
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News", Mathrubhumi News  
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102646/ei/lnU9Z-30H_zk4t4PrIiViQg/ip/172.68.242.79/id/PJh-BCy7nA4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/qtApAXQbJNvxyCJjbfFG88g-MPIb4yo_wu25ISappKZzqt4FBZ8i60pdLnQRmG8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51299154%2C51312688%2C51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP5u8Q1_2SeoRUuc_0Pqw3el2MAhmoVaGL97PxTgV80MAiBfx9TZ8oC5XMxG2pr_zYqPsJc_5RZzhaDHpUD9xs4gEg%3D%3D/file/index.m3u8  
+
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="News", Janam TV  
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8  
+
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News", Kairali News  
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8  
+
+#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News", News Malayalam  
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/rXU9Z8CQOZaQ3LUP2rn-mAg/ip/172.68.242.79/id/vi1Fyk4NS94.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-gwpa-jjwe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAaylnh0ePhVlosDUk-dyJnw79ldpOjwuyXLWPLi8HJwTBFjvR8GAtmqH8n8/vprv/1/playlist_type/DVR/initcwndbps/811250/met/1732081071,/mh/9f/mip/152.58.219.30/mm/44/mn/sn-gwpa-jjwe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932,51335594/mt/1732080755/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgZtgkmeYJX8IPh_ds6dNnQUztT0oB7uUyH9vfLiC1RrgCIAtkTms4bbsexbqHE5etyLsunIK-L_ELJFCvUEB1ffwN/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhALIjBBpYbiP0-XSAnkjlQuFw-0hIeiHjCnmPDLoPS-JcAiAW0h_EVA74YCUDIu_2LDs0Vmxcl94rsw5UvMstjvUl9A%3D%3D/playlist/index.m3u8  
 
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV  
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="DiscoveryML" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Travel", Discovery ML  
-https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8  
+#EXTINF:-1 group-title="News", CNN News  
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8  
 
-#EXTINF:-1 tvg-id="Musliland.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Islam_symbol.svg" group-title="Islamic", Musliland  
-http://103.85.204.205:1935/VISIONMEDIA/live/chunklist_w1016377686.m3u8  
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="News", NDTV 24/7  
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8  
 
-#EXTINF:-1 tvg-id="AlJazeera.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="News", Al Jazeera  
-https://live-hls-v3-aja.getaj.net/AJA-V3/01.m3u8  
+#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="News", Al Jazeera  
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8  
 
-#EXTINF:-1 tvg-id="Ahl-AlQuran.in" tvg-logo="https://i.imgur.com/1sy3ISV.png" group-title="Islamic", Ahl-Al-Quran  
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8  
+#EXTINF:-1 tvg-id="BBCNewsArabic.uk" tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="News", BBC Arabic  
+https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8  
 
-#EXTINF:-1 tvg-id="Victors.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Kite_logo.png" group-title="Education", Victors  
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks.m3u8  
-
-#EXTINF:-1 tvg-id="KairaliWE.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="Movies", Kairali WE  
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/62318be0-aa26-4d0f-adee-1b3e7239655e/3.m3u8  
-
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="Entertainment", Mazhavil Manorama  
-https://8ed7ae6137464705a7770b3fdae97f25.mediatailor.eu-west-1.amazonaws.com/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/e661e0af-31b5-4080-824f-4e694bc02fac/0.m3u8  
-
-#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="Entertainment", Amrita TV  
-https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-logo="https://i.imgur.com/htYVkpy.png" group-title="News", NEWS 18 TAMIL  
+https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
