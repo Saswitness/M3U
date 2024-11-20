@@ -36,7 +36,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV  
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryMalayalam.in" tvg-logo="https://private-user-images.githubusercontent.com/155164112/387997370-44b78ebd-de9b-46b8-86cd-ebfe1552742e.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzIwODk2NzcsIm5iZiI6MTczMjA4OTM3NywicGF0aCI6Ii8xNTUxNjQxMTIvMzg3OTk3MzcwLTQ0Yjc4ZWJkLWRlOWItNDZiOC04NmNkLWViZmUxNTUyNzQyZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyMFQwNzU2MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZjNhOWM0N2JjMmYxN2U0MDFiOWY3MWVmYTQ0NTZmZTQzOGZkMmU4NDk4ZmEwYjA2N2I4YzEzOTZlNDFjYTJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uyPnR0CAcg-gK_JzQMQA4v8P8_AGn0-Opg_qRKWqn_w"" group-title="Travel", Discovery Malayalam  
+#EXTINF:-1 tvg-id="DiscoveryMalayalam.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Discovery_Channel_-_Logo_2019.svg" group-title="Travel", Discovery Malayalam  
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 
 #EXTINF:-1 group-title="News", CNN News  
