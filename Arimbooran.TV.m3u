@@ -1,70 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="MediaOne.in" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="News", Media One
-https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="News", Media One  
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732103129/ei/eXc9Z9_5OLmc4t4P5f-gqAg/ip/162.158.107.15/id/-8d8-c0yvyU.1/itag/96/source/yt_live_broadcast/.../playlist/index.m3u8  
 
-#EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News", 24 News
-https://segment.yuppcdn.net/110322/channel24/110322/channel24_1800/chunks.m3u8
+#EXTINF:-1 tvg-id="NewsMalayalam.in" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News", News Malayalam  
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/rXU9Z8CQOZaQ3LUP2rn-mAg/.../playlist/index.m3u8  
 
-#EXTINF:-1 tvg-id="ReporterTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="News", Reporter
-https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News", Mathrubhumi News  
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102646/ei/lnU9Z-30H_zk4t4PrIiViQg/.../file/index.m3u8  
 
-#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News", Manorama News
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News", Manorama News  
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102638/ei/jnU9Z5OqCre74-EP6obfkQw/.../file/index.m3u8  
 
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News", Asianet News
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV  
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8  
 
-#EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="News", News 18
-https://ythls.armelin.one/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
+#EXTINF:-1 tvg-id="DiscoveryML" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Travel", Discovery ML  
+https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8  
 
-#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="News", Mathrubhumi News
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="Musliland.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Islam_symbol.svg" group-title="Islamic", Musliland  
+http://103.85.204.205:1935/VISIONMEDIA/live/chunklist_w1016377686.m3u8  
 
-#EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="News", Janam TV
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="News", Al Jazeera  
+https://live-hls-v3-aja.getaj.net/AJA-V3/01.m3u8  
 
-#EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News", Kairali News
-https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
+#EXTINF:-1 tvg-id="Ahl-AlQuran.in" tvg-logo="https://i.imgur.com/1sy3ISV.png" group-title="Islamic", Ahl-Al-Quran  
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8  
 
-#EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News", News Malayalam
-https://ythls.armelin.one/channel/UCXp6JTdq7-WwBK09S7SzmxQ.m3u8
+#EXTINF:-1 tvg-id="Victors.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Kite_logo.png" group-title="Education", Victors  
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks.m3u8  
 
-#EXTINF:-1 tvg-id="RealNews.in" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News", Real News
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="KairaliWE.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="Movies", Kairali WE  
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/62318be0-aa26-4d0f-adee-1b3e7239655e/3.m3u8  
 
-#EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="Entertainment", Mazhavil Manorama  
+https://8ed7ae6137464705a7770b3fdae97f25.mediatailor.eu-west-1.amazonaws.com/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/e661e0af-31b5-4080-824f-4e694bc02fac/0.m3u8  
 
-#EXTINF:-1 tvg-id="DiscoveryML" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Travel", Discovery ML
-https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
-
-#EXTINF:-1 tvg-id="Musliland.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Islam_symbol.svg" group-title="Islamic", Musliland
-http://103.85.204.205:1935/VISIONMEDIA/live/chunklist_w1016377686.m3u8
-
-#EXTINF:-1 group-title="News", CNN News
-https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
-
-#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="News", NDTV 24/7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aljazeera_Mubasher.svg/512px-Aljazeera_Mubasher.svg.png" group-title="News", Al Jazeera
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-
-#EXTINF:-1 tvg-id="BBCNewsArabic.uk" tvg-logo="https://i.imgur.com/wgIUsFu.png" group-title="News", BBC Arabic
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
-
-#EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-logo="https://i.imgur.com/htYVkpy.png" group-title="News", NEWS 18 TAMIL
-https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
-
-#EXTINF:-1 tvg-id="Victors.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Kite_logo.png" group-title="Education", Victors
-https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="KairaliWE.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="Movies", Kairali WE
-https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/62318be0-aa26-4d0f-adee-1b3e7239655e/3.m3u8
-
-#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="Entertainment", Mazhavil Manorama
-https://8ed7ae6137464705a7770b3fdae97f25.mediatailor.eu-west-1.amazonaws.com/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/e661e0af-31b5-4080-824f-4e694bc02fac/0.m3u8
-
-#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="Entertainment", Amrita TV
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="Entertainment", Amrita TV  
 https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
