@@ -36,7 +36,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV  
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Travel", Discovery ML  
+#EXTINF:-1 tvg-id="DiscoveryMalayalam.in" tvg-logo="https://via.placeholder.com/150?text=Discovery+Malayalam" group-title="Travel", Discovery Malayalam  
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 
 #EXTINF:-1 group-title="News", CNN News  
