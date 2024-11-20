@@ -34,7 +34,10 @@ https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/rXU9Z8CQOZaQ3LUP2rn-mAg/ip/172.68.242.79/id/vi1Fyk4NS94.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-gwpa-jjwe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAaylnh0ePhVlosDUk-dyJnw79ldpOjwuyXLWPLi8HJwTBFjvR8GAtmqH8n8/vprv/1/playlist_type/DVR/initcwndbps/811250/met/1732081071,/mh/9f/mip/152.58.219.30/mm/44/mn/sn-gwpa-jjwe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932,51335594/mt/1732080755/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgZtgkmeYJX8IPh_ds6dNnQUztT0oB7uUyH9vfLiC1RrgCIAtkTms4bbsexbqHE5etyLsunIK-L_ELJFCvUEB1ffwN/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhALIjBBpYbiP0-XSAnkjlQuFw-0hIeiHjCnmPDLoPS-JcAiAW0h_EVA74YCUDIu_2LDs0Vmxcl94rsw5UvMstjvUl9A%3D%3D/playlist/index.m3u8  
 
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV  
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8  
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+EXTINF:-1 tvg-id="DiscoveryML" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Travel", Discovery ML  
+https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8 
 
 #EXTINF:-1 group-title="News", CNN News  
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8  
