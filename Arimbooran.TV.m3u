@@ -15,7 +15,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102638/ei/j
 #EXTINF:-1 tvg-id="RealNews.in" tvg-logo="https://via.placeholder.com/150?text=Real+News" group-title="News", Real News  
 https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/chunks.m3u8  
 
-#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="News", Asianet News  
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://en.m.wikipedia.org/wiki/Asianet_News#/media/File%3AAsianet_News_New_logo.jpg" group-title="News", Asianet News  
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8  
 
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="News", News 18  
