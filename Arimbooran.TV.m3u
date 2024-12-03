@@ -39,6 +39,15 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryMalayalam.in" tvg-logo="https://i.imgur.com/3akIG4I.png" group-title="Travel", Discovery Malayalam  
 https://varun-iptv.netlify.app/m3u/discoverymalayalam.m3u8
 
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-logo="https://i.imgur.com/yzS4WMS.png" group-title="Movie", WE Kairali
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/26ed9b91-c12d-4a5a-beb9-fc3fc25367b3/0.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in "tvg-logo="https://i.imgur.com/msPPEqo.png" group-title="Entertainment", Mazhavil Manorama
+https://8ed7ae6137464705a7770b3fdae97f25.mediatailor.eu-west-1.amazonaws.com/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/b46d3a6a-d8f1-4472-8b3d-b6d4d3dee3a2/3.m3u8
+
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/zRngsHP.png" group-title="Entertainment", Amrita TV
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+
 #EXTINF:-1 group-title="News", CNN News  
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8  
 
