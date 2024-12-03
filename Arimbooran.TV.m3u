@@ -4,19 +4,16 @@
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1733263694/ei/7ixPZ5KnKovtg8UP0rDpgQc/ip/172.69.86.169/id/-8d8-c0yvyU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-nu5h2xqx-jv3e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AQn3pFTmhunt7FlhHCl9N2lgYfeTVC4dTT-ic-IdvNMvarSKSf4M8H6SL1nNoTBDUYEN2FHl6fjjkoyz/spc/qtApAWZCrMyuOblEUUExm-sEhDfDEwC2iX94aHH2myaw35tx3OlbIf0Te9KVqsY/vprv/1/playlist_type/DVR/initcwndbps/1051250/met/1733242096,/mh/Rs/mip/178.248.114.108/mm/44/mn/sn-nu5h2xqx-jv3e/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51347746,51353498,51355912/mt/1733241406/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRgIhAIq9eKHrBi05hwzF6218wL7tuTrgMxQCGdhcOckd0Fd4AiEAkG9FGnEJjGhJDQ5Ux-oWUDGJcVU4NJ6dgOXtSmCYScs%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhALfY65OkaQ94Ufbo2Ypvh4A6Yzz21g0fExKrZ1dLT74lAiABFavPWUk4t-FTqfpUtadTFFI-EjsDBE17l9X2Hf-vnw%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News", 24 News  
-https://segment.yuppcdn.net/110322/channel24/110322/channel24_400/chunks.m3u8  
+https://segment.yuppcdn.net/110322/channel24/110322/channel24_400/chunks.m3u8
 
 #EXTINF:-1 tvg-id="ReporterTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="News", Reporter  
-https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8  
+https://ythls.armelin.one/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
 
 #EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="News", Manorama News  
-https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8  
-
-#EXTINF:-1 tvg-id="RealNews.in" tvg-logo="https://i.imgur.com/RL76FYL.png" group-title="News", Real News  
-https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/chunks.m3u8  
+https://ythls.armelin.one/channel/UCP0uG-mcMImgKnJz-VjJZmQ.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/mrt7dP8.png" group-title="News", Asianet News  
-https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8  
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="News", News 18  
 https://ythls.armelin.one/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8  
@@ -28,10 +25,16 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732102646/ei/l
 https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8    
 
 #EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="News", Kairali News  
-https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8  
+https://ythls.armelin.one/channel/UCnEvxaWfVL91XIYuyQRO5QA.m3u8
+
+#EXTINF:-1 tvg-id="Keralavision.in" tvg-name="Kerala Vision" tvg-logo="https://i.imgur.com/I1uerXB.jpeg" group-title="News",Kerala Vision
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1733266229/ei/1TZPZ6DjN_SW4t4PrOPU8A8/ip/172.69.95.58/id/dt9TnY7znY0.14/itag/91/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D139/sgovp/gir%3Dyes%3Bitag%3D160/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-nu5h2xqx-jv3e.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAXuaDn1S2xkBsCI83a71fM62CCWmjcSRXLwL9fSgcgf826Q_n1W4a2Vuw9M/vprv/1/playlist_type/DVR/initcwndbps/1081250/met/1733244631,/mh/4W/mip/178.248.114.108/mm/44/mn/sn-nu5h2xqx-jv3e/ms/lva/mv/m/mvi/1/pcm2cms/yes/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51326932,51335594,51355912/mt/1733244290/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgR5X9WEFjjb7ax8RcuE5njh0U2vWAo_kl4LDAqiaGKfMCIAsExaqvcy8PZ-wynPIFho2bZalR5-Hyc2YbOyuxSiuk/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pcm2cms,pl,rms/lsig/AGluJ3MwRQIgUpyjtqa1nhKFdD8LhxM8nM2x7WxKoRPGDL1kPVSx2BgCIQD8Jlhx2Ux80WURcyr0bz9Q6_DU6OI7LCPbQZabkYKm6g%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="NewsMalayalam24x7.in" tvg-logo="https://i.imgur.com/UJ9QUhj.png" group-title="News", News Malayalam  
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1732102669/ei/rXU9Z8CQOZaQ3LUP2rn-mAg/ip/172.68.242.79/id/vi1Fyk4NS94.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr1---sn-gwpa-jjwe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/qtApAaylnh0ePhVlosDUk-dyJnw79ldpOjwuyXLWPLi8HJwTBFjvR8GAtmqH8n8/vprv/1/playlist_type/DVR/initcwndbps/811250/met/1732081071,/mh/9f/mip/152.58.219.30/mm/44/mn/sn-gwpa-jjwe/ms/lva/mv/m/mvi/1/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51299154,51312688,51326932,51335594/mt/1732080755/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRAIgZtgkmeYJX8IPh_ds6dNnQUztT0oB7uUyH9vfLiC1RrgCIAtkTms4bbsexbqHE5etyLsunIK-L_ELJFCvUEB1ffwN/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/AGluJ3MwRQIhALIjBBpYbiP0-XSAnkjlQuFw-0hIeiHjCnmPDLoPS-JcAiAW0h_EVA74YCUDIu_2LDs0Vmxcl94rsw5UvMstjvUl9A%3D%3D/playlist/index.m3u8  
+
+#EXTINF:-1 tvg-id="RealNews.in" tvg-logo="https://i.imgur.com/RL76FYL.png" group-title="News", Real News  
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SafariTV.in" tvg-logo="https://i.imgur.com/dSOfYyh.png" group-title="Travel", SAFARI TV  
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
@@ -47,6 +50,9 @@ https://8ed7ae6137464705a7770b3fdae97f25.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/zRngsHP.png" group-title="Entertainment", Amrita TV
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="Victors.in" tvg-name="Victors" tvg-logo="https://i.imgur.com/rRoNGS6.jpeg" group-title="Education",Victors
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/victers/tv1/chunks.m3u8
 
 #EXTINF:-1 group-title="News", CNN News  
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8  
