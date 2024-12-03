@@ -62,3 +62,6 @@ https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8
 
 #EXTINF:-1 tvg-id="News18TamilNadu.in" tvg-logo="https://i.imgur.com/htYVkpy.png" group-title="News", NEWS 18 TAMIL  
 https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+
+#EXTINF:-1 tvg-id="AsianetTamil.in" tvg-logo="https://i.imgur.com/mrt7dP8.png" group-title="News", Asianet Tamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
