@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MediaOne" tvg-name="Media One" group-title="News",Media One Group News
+https://cdn-3.pishow.tv/live/1481/master.m3u8
+
+#EXTINF:-1 tvg-id="24News" tvg-name="24 News" group-title="News",24 News Group News
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AsianetNews" tvg-name="Asianet News" group-title="News",Asianet News Group News
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
