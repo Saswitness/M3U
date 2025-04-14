@@ -1,4 +1,5 @@
 #EXTM3U
+# News Group
 #EXTINF:-1 tvg-id="MediaOne" tvg-name="Media One" group-title="News",Media One Group News
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 
@@ -7,3 +8,24 @@ https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsianetNews" tvg-name="Asianet News" group-title="News",Asianet News Group News
 https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealNews" tvg-name="Real News" group-title="News",Real News Group News
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8
+
+# Travel Group
+#EXTINF:-1 tvg-id="SafariTV" tvg-name="Safari TV" group-title="Travel",Safari TV Group Travel
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4KTravelTV" tvg-name="4K Travel TV" group-title="Travel",4K Travel TV Group Travel
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+# Reality Group
+#EXTINF:-1 tvg-id="FailArmy" tvg-name="Fail Army" group-title="Reality",Fail Army
+https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AwesomePeople" tvg-name="Awesome People" group-title="Reality",Awesome People
+https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+
+# Weather Group
+#EXTINF:-1 tvg-id="WeatherSpy" tvg-name="Weather Spy" group-title="Weather",Weather Spy
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
