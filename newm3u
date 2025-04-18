@@ -19,13 +19,54 @@ https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="4KTravelTV" tvg-name="4K Travel TV" group-title="Travel",4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 
-# Reality Group
-#EXTINF:-1 tvg-id="FailArmy" tvg-name="Fail Army" group-title="Reality",Fail Army
+# Comedy Group
+#EXTINF:-1 tvg-id="FailArmy" tvg-name="Fail Army" group-title="Comedy",Fail Army
 https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AwesomePeople" tvg-name="Awesome People" group-title="Reality",Awesome People
-https://jukin-peopleareawesome-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ridiculous" tvg-name="Ridiculous" group-title="Comedy",Ridiculous
+https://30a-tv.com/feeds/720p/63.m3u8
 
-# Weather Group
-#EXTINF:-1 tvg-id="WeatherSpy" tvg-name="Weather Spy" group-title="Weather",Weather Spy
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AFVTV" tvg-name="AFV TV" group-title="Comedy",AFV TV
+https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFVFamily" tvg-name="AFV Family" group-title="Comedy",AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AFVEspanol" tvg-name="AFV Espanol" group-title="Comedy",AFV Espanol
+https://linear-46.frequency.stream/dist/plex/46/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVPranks" tvg-name="Pluto TV Pranks" group-title="Comedy",Pluto TV Pranks
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1456-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3413fbb5-74bd-4dcd-b965-f1001d8bcc0b
+
+#EXTINF:-1 tvg-id="CameraSmile" tvg-name="Camera Smile" group-title="Comedy",Camera Smile
+https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
+
+#EXTINF:-1 tvg-id="JustForLaughsGags" tvg-name="Just For Laughs Gags" group-title="Comedy",Just For Laughs Gags
+https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="RamezArabic" tvg-name="Ramez Arabic" group-title="Comedy",Ramez Arabic
+https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
+
+#EXTINF:-1 tvg-id="JordanComedy" tvg-name="Jordan Comedy" group-title="Comedy",Jordan Comedy
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RoyaComedy" tvg-name="Roya Comedy" group-title="Comedy",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVSComedyTV" tvg-name="TVS Comedy TV" group-title="Comedy",TVS Comedy TV
+https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+
+#EXTINF:-1 tvg-id="HumorMill" tvg-name="Humor Mill" group-title="Comedy",Humor Mill
+https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
+
+#EXTINF:-1 tvg-id="StandUpTV" tvg-name="Stand-Up TV" group-title="Comedy",Stand-Up TV
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a0-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=33a4d320-29a2-4c88-9bcb-84a407b88251
+
+#EXTINF:-1 tvg-id="ComedyDynamic" tvg-name="Comedy Dynamic" group-title="Comedy",Comedy Dynamic
+https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LolStandup2" tvg-name="Lol Stand-up 2" group-title="Comedy",Lol Stand-up 2
+https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
+
+#EXTINF:-1 tvg-id="LolNetwork3" tvg-name="Lol Network 3" group-title="Comedy",Lol Network 3
+https://apollo.production-public.tubi.io/live/lol-network3.m3u8
