@@ -77,3 +77,39 @@ https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8
 
 #EXTINF:-1 tvg-id="LolNetwork3" tvg-name="Lol Network 3" group-title="Comedy",Lol Network 3
 https://apollo.production-public.tubi.io/live/lol-network3.m3u8
+#Crime Group
+#EXTINF:-1 tvg-id="COPS" tvg-name="COPS" tvg-logo="https://example.com/logo1.png" group-title="Crime",COPS
+https://stitcher.pluto.tv/stitch/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6dc17536-1c2f-11f0-8e59-de5e5c54315d
+
+#EXTINF:-1 tvg-id="RealCrimes" tvg-name="Real Crimes" tvg-logo="https://example.com/logo2.png" group-title="Crime",Real Crimes
+https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimeInvestigation" tvg-name="Crime+Investigation" tvg-logo="https://example.com/logo3.png" group-title="Crime",Crime+Investigation
+https://tvpass.org/live/CrimePlusInvestigation/hd
+
+#EXTINF:-1 tvg-id="CrimeJustice" tvg-name="Crime & Justice" tvg-logo="https://example.com/logo4.png" group-title="Crime",Crime & Justice
+https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Forensic" tvg-name="Forensic" tvg-logo="https://example.com/logo5.png" group-title="Crime",Forensic
+https://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
+
+#EXTINF:-1 tvg-id="ColdCaseFiles" tvg-name="Cold Case Files" tvg-logo="https://example.com/logo6.png" group-title="Crime",Cold Case Files
+https://stitcher.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
+
+#EXTINF:-1 tvg-id="TheNewDetective" tvg-name="The New Detective" tvg-logo="https://example.com/logo7.png" group-title="Crime",The New Detective
+https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6dc17536-1c2f-11f0-8e59-de5e5c54315d
+
+#EXTINF:-1 tvg-id="UnsolvedMysteries" tvg-name="Unsolved Mysteries" tvg-logo="https://example.com/logo8.png" group-title="Crime",Unsolved Mysteries
+https://stitcher.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6780419e-1ba9-11f0-a1fd-4e04716c5414
+
+#EXTINF:-1 tvg-id="MidsomerMurders" tvg-name="Midsomer Murders" tvg-logo="https://example.com/logo9.png" group-title="Crime",Midsomer Murders
+https://stitcher.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=d6b3ee1e-19d3-11f0-8514-425b4e83153a
+
+#EXTINF:-1 tvg-id="Dateline247" tvg-name="Dateline 24/7" tvg-logo="https://example.com/logo10.png" group-title="Crime",Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+
+#EXTINF:-1 tvg-id="LawAndCrime" tvg-name="Law & Crime" tvg-logo="https://example.com/logo11.png" group-title="Crime",Law & Crime
+https://cdn.lawandcrime.net/rewind/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelFight" tvg-name="Channel Fight" tvg-logo="https://example.com/logo12.png" group-title="Crime",Channel Fight
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
