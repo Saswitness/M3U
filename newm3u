@@ -132,3 +132,12 @@ https://cdn.lawandcrime.net/rewind/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ChannelFight" tvg-name="Channel Fight" tvg-logo="https://example.com/logo12.png" group-title="Crime",Channel Fight
 https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+
+#EXTINF:-1 group-title="News" tvg-id="PalestineChannel" tvg-name="Palestine Channel",Palestine Channel  
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8  
+
+#EXTINF:-1 group-title="News" tvg-id="RoyaPalestine" tvg-name="Roya Palestine",Roya Palestine  
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-palestine/playlist.m3u8  
+
+#EXTINF:-1 group-title="News" tvg-id="PalestineTV" tvg-name="Palestine TV",Palestine TV  
+https://rp.tactivemedia.com/palestiniantv_source/live/playlist.m3u8  
